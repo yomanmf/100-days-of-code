@@ -17,3 +17,12 @@
 **Thoughts:** Progress is pretty good.
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 3: January 5, 2017
+#####
+
+**Today's Progress**: Have finished writing frontend tests. They are stable and execute correctly.
+
+**Thoughts:** I'm very glad to participate at this challenge.
+
+**Link to work:** Private repo (it's related to my work)
