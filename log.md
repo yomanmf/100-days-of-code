@@ -26,3 +26,12 @@
 **Thoughts:** I'm very glad to participate at this challenge.
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 3: January 6, 2017
+#####
+
+**Today's Progress**: Written layout tests. Finished with this project.
+
+**Thoughts:** It's pretty fun so far.
+
+**Link to work:** Private repo (it's related to my work)
