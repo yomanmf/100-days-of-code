@@ -27,7 +27,7 @@
 
 **Link to work:** Private repo (it's related to my work)
 
-### Day 3: January 6, 2017
+### Day 4: January 6, 2017
 #####
 
 **Today's Progress**: Written layout tests. Finished with this project.
