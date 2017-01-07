@@ -35,3 +35,12 @@
 **Thoughts:** It's pretty fun so far.
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 5: January 7, 2017
+#####
+
+**Today's Progress**: Restarted my old homework project. Written the main code. The hard part is ahead - to make it work.
+
+**Thoughts:** Expecting to finish the project tomorrow, but it's close to impossible.
+
+**Link to work:** https://github.com/yomanmf/party-check-depth
