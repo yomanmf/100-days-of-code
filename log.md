@@ -45,13 +45,13 @@
 
 **Link to work:** https://github.com/yomanmf/party-check-depth
 
-### Day 5: January 7, 2017
+### Day 6: January 8, 2017
 #####
 
 **Today's Progress**: Have launched my home page https://yomanmf.github.io 
 DOM walker project: have done README.md, found a way to make babel work. 
 
-**Thoughts:** Close to finish my homework.
+**Thoughts:** Close to finish my homework, it's exciting 8)
 
 **Link to work:** https://github.com/yomanmf/party-check-depth
 https://github.com/yomanmf/yomanmf.github.io
