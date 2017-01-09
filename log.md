@@ -56,3 +56,12 @@ DOM walker project: have done README.md, found a way to make babel work.
 **Link to work:** https://github.com/yomanmf/party-check-depth
 https://github.com/yomanmf/yomanmf.github.io
 
+### Day 7: January 9, 2017
+#####
+
+**Today's Progress**: Have written some automated tests
+
+**Thoughts:** First day when I do code after my full0time job. Seems not to difficult.
+
+**Link to work:** Private repo (it's related to my work)
+
