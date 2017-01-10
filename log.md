@@ -68,7 +68,7 @@ https://github.com/yomanmf/yomanmf.github.io
 ### Day 8: January 10, 2017
 #####
 
-**Today's Progress**: Have written fixed some automated tests, have written new ones.
+**Today's Progress**: Have fixed some automated tests, have written new ones.
 
 **Thoughts:** Starting to automate things that recently I thougt will not be automated. Sounds wierd, but it's awesome.
 
