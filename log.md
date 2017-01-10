@@ -61,7 +61,15 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Today's Progress**: Have written some automated tests
 
-**Thoughts:** First day when I do code after my full0time job. Seems not to difficult.
+**Thoughts:** First day when I do code after my full time job. Seems not to difficult.
 
 **Link to work:** Private repo (it's related to my work)
 
+### Day 8: January 10, 2017
+#####
+
+**Today's Progress**: Have written fixed some automated tests, have written new ones.
+
+**Thoughts:** Starting to automate things that recently I thougt will not be automated. Sounds wierd, but it's awesome.
+
+**Link to work:** Private repo (it's related to my work)
