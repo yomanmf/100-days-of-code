@@ -73,3 +73,14 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** Starting to automate things that recently I thougt will not be automated. Sounds wierd, but it's awesome.
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 9: January 11, 2017
+#####
+
+**Today's Progress**: Continued to write yesterday test
+
+**Thoughts:** Want to sleep
+
+**Link to work:** Private repo (it's related to my work)
+
+
