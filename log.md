@@ -83,4 +83,14 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Link to work:** Private repo (it's related to my work)
 
+### Day 10: January 12, 2017
+#####
+
+**Today's Progress**: Have updated the code of my test
+
+**Thoughts:** Night coding seems hard to me - can't concentrate. Need to find another time for it
+
+**Link to work:** Private repo (it's related to my work)
+
+
 
