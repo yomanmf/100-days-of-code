@@ -92,7 +92,7 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Link to work:** Private repo (it's related to my work)
 
-### Day 11: January 12, 2017
+### Day 11: January 13, 2017
 #####
 
 **Today's Progress**: some commits in homework project
@@ -100,6 +100,12 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** Night coding seems hard to me - can't concentrate. Need to find another time for it
 
 **Link to work:** https://github.com/yomanmf/party-check-depth
-https://github.com/yomanmf/yomanmf.github.io
 
+### Day 12: January 14, 2017
+#####
 
+**Today's Progress**: struggled with my homework and written some automated tests 
+
+**Thoughts:** need to improve my time management skills
+
+**Link to work:** https://github.com/yomanmf/party-check-depth + private repo
