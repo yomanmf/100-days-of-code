@@ -109,3 +109,14 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** need to improve my time management skills
 
 **Link to work:** https://github.com/yomanmf/party-check-depth + private repo
+
+### Day 12: January 14, 2017
+#####
+
+**Today's Progress**: ended writing automated tests for 404 page
+
+**Thoughts:** still not a daily routine
+
+**Link to work:** Private repo
+
+
