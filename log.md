@@ -110,13 +110,20 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Link to work:** https://github.com/yomanmf/party-check-depth + private repo
 
-### Day 12: January 14, 2017
+### Day 13: January 15, 2017
 #####
 
 **Today's Progress**: ended writing automated tests for 404 page
 
 **Thoughts:** still not a daily routine
 
-**Link to work:** Private repo
+**Link to work:** Private repo (it's related to my work)
 
+### Day 14: January 16, 2017
+#####
 
+**Today's Progress**: 404 page tests are finished, banner tets are in progress. First time tried to write autotests offline (in a plane).
+
+**Thoughts:** mmmmmm
+
+**Link to work:** Private repo (it's related to my work)
