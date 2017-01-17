@@ -127,3 +127,12 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** mmmmmm
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 15: January 17, 2017
+#####
+
+**Today's Progress**: Have written some tests and made a couple of pull requests
+
+**Thoughts:** It's the first time I have written code at my working hours. And I liked it!
+
+**Link to work:** Private repo (it's related to my work)
