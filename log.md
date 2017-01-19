@@ -145,3 +145,13 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** Exhausted
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 17: January 19, 2017
+#####
+
+**Today's Progress**: Made small fixes to existing tests
+
+**Thoughts:** Exhausted
+
+**Link to work:** Private repo (it's related to my work)
+
