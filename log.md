@@ -155,3 +155,13 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Link to work:** Private repo (it's related to my work)
 
+### Day 18: January 20, 2017
+#####
+
+**Today's Progress**: Have written some new tests
+
+**Thoughts:** Writing code faster and faster
+
+**Link to work:** Private repo (it's related to my work)
+
+
