@@ -164,4 +164,13 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Link to work:** Private repo (it's related to my work)
 
+### Day 19: January 21, 2017
+#####
+
+**Today's Progress**: Finishing old payment form tests. It was a long road
+
+**Thoughts:** Looks like it's my new hobbie, like gaming a couple of months ago
+
+**Link to work:** Private repo (it's related to my work)
+
 
