@@ -181,3 +181,12 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** Obsessed with writing code 8)
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 21: January 23, 2017
+#####
+
+**Today's Progress**: Finished old payment form autotests (started it 13 days ago lol)
+
+**Thoughts:** looking forward to merge my six pull requests SO FAR
+
+**Link to work:** Private repo (it's related to my work)
