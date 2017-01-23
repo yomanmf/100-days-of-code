@@ -173,4 +173,11 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Link to work:** Private repo (it's related to my work)
 
+### Day 20: January 22, 2017
+#####
 
+**Today's Progress**: Have written my first autotest with filling test form. Have fixed a bunch of blinking tests
+
+**Thoughts:** Obsessed with writing code 8)
+
+**Link to work:** Private repo (it's related to my work)
