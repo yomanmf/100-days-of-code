@@ -190,3 +190,12 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** looking forward to merge my six pull requests SO FAR
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 22: January 24, 2017
+#####
+
+**Today's Progress**: Refactored many-many of autotests. Now they will blink less and run faster (i guess)
+
+**Thoughts:** i'm so lazy
+
+**Link to work:** Private repo (it's related to my work)
