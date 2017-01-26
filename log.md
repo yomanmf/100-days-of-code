@@ -199,3 +199,21 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** i'm so lazy
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 23: January 25, 2017
+#####
+
+**Today's Progress**: Have fixed tests, have broken other tests 
+
+**Thoughts:** Fixing floaky autotests seems not as boring as it's looks
+
+**Link to work:** Private repo (it's related to my work)
+
+### Day 24: January 25, 2017
+#####
+
+**Today's Progress**: Turned out that i'm not the person that broken that test yesterday :) It was just outdated. Today made a bunch more fixes to make tests more stable
+
+**Thoughts:** First time found time to write code at work time
+
+**Link to work:** Private repo (it's related to my work)
