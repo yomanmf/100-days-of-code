@@ -209,11 +209,29 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Link to work:** Private repo (it's related to my work)
 
-### Day 24: January 25, 2017
+### Day 24: January 26, 2017
 #####
 
 **Today's Progress**: Turned out that i'm not the person that broken that test yesterday :) It was just outdated. Today made a bunch more fixes to make tests more stable
 
 **Thoughts:** First time found time to write code at work time
+
+**Link to work:** Private repo (it's related to my work)
+
+### Day 25: January 27, 2017
+#####
+
+**Today's Progress**: Have written a new tests for new functionality
+
+**Thoughts:** Keeping writing code at work hours to spend more time with my mini-piggy Dasha at home :)
+
+**Link to work:** Private repo (it's related to my work)
+
+### Day 26: January 28, 2017
+#####
+
+**Today's Progress**: Fixed and expanded and my yesterday's autotests
+
+**Thoughts:** Have no new thougts
 
 **Link to work:** Private repo (it's related to my work)
