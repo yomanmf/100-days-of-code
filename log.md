@@ -61,7 +61,7 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Today's Progress**: Have written some automated tests
 
-**Thoughts:** First day when I do code after my full time job. Seems not to difficult.
+**Thoughts:** First day when I do code after my full time job. Seems not too difficult.
 
 **Link to work:** Private repo (it's related to my work)
 
