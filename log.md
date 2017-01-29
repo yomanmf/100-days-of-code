@@ -235,3 +235,12 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** Have no new thougts
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 27: January 29, 2017
+#####
+
+**Today's Progress**: Some new checks added to my autotests. Understand :nth-child() better now.
+
+**Thoughts:** Morning coding seems cool
+
+**Link to work:** Private repo (it's related to my work)
