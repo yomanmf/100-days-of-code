@@ -244,3 +244,12 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** Morning coding seems cool
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 28: January 30, 2017
+#####
+
+**Today's Progress**: Struggled with browser.chooseFile(selector,localPath); method
+
+**Thoughts:** Want to sleep 8(
+
+**Link to work:** Private repo (it's related to my work)
