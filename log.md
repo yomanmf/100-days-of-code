@@ -253,3 +253,12 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** Want to sleep 8(
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 29: January 31, 2017
+#####
+
+**Today's Progress**: started some great refactoring of page objects
+
+**Thoughts:** Finally refactoring this bydlo_code POs
+
+**Link to work:** Private repo (it's related to my work)
