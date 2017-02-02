@@ -262,3 +262,21 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** Finally refactoring this bydlo_code POs
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 30: February 1, 2017
+#####
+
+**Today's Progress**: some more refactoring of page objects
+
+**Thoughts:** No thoughts
+
+**Link to work:** Private repo (it's related to my work)
+
+### Day 31: February 2, 2017
+#####
+
+**Today's Progress**: some more refactoring of page objects
+
+**Thoughts:** So sleepy
+
+**Link to work:** Private repo (it's related to my work)
