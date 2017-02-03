@@ -280,3 +280,11 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** So sleepy
 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 32: February 3, 2017
+#####
+
+**Today's Progress**: Almost done with page objects refactoring. Minor fixes left
+
+**Thoughts:** My mini piggy is so wawrm :3
+**Link to work:** Private repo (it's related to my work)
