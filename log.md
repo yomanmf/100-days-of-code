@@ -286,5 +286,13 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Today's Progress**: Almost done with page objects refactoring. Minor fixes left
 
-**Thoughts:** My mini piggy is so wawrm :3
+**Thoughts:** My mini piggy is so warm :3
+**Link to work:** Private repo (it's related to my work)
+
+### Day 33: February 4, 2017
+#####
+
+**Today's Progress**: Finished refactoring, strted to write new autotests
+
+**Thoughts:** I neeeed more time 
 **Link to work:** Private repo (it's related to my work)
