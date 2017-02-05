@@ -296,3 +296,11 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** I neeeed more time 
 **Link to work:** Private repo (it's related to my work)
+
+### Day 34: February 5, 2017
+#####
+
+**Today's Progress**: Finished some autotests, made some fixes to old tests
+
+**Thoughts:** I want more
+**Link to work:** Private repo (it's related to my work)
