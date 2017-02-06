@@ -304,3 +304,12 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** I want more
 **Link to work:** Private repo (it's related to my work)
+
+### Day 35: February 6, 2017
+#####
+
+**Today's Progress**: Started drag and drop autotest
+
+**Thoughts:** Now I realize the importance of proper git config
+**Link to work:** Private repo (it's related to my work)
+
