@@ -310,6 +310,13 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Today's Progress**: Started drag and drop autotest
 
-**Thoughts:** Now I realize the importance of proper git config
+**Thoughts:** Now I realized the importance of proper git config
 **Link to work:** Private repo (it's related to my work)
 
+### Day 36: February 7, 2017
+#####
+
+**Today's Progress**: Have fixed a bunch of autotests
+
+**Thoughts:** Mentioned that my github stats look impressive
+**Link to work:** Private repo (it's related to my work)
