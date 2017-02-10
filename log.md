@@ -320,3 +320,29 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** Mentioned that my github stats look impressive
 **Link to work:** Private repo (it's related to my work)
+
+
+### Day 37: February 8, 2017
+#####
+
+**Today's Progress**: fixes and a little refactoring of autotests
+
+**Thoughts:** awwww
+**Link to work:** Private repo (it's related to my work)
+
+
+### Day 38: February 9, 2017
+#####
+
+**Today's Progress**: some daily routine with writing new regression autotests 
+
+**Thoughts:** some more time wanted 8)
+**Link to work:** Private repo (it's related to my work)
+
+### Day 39: February 10, 2017
+#####
+
+**Today's Progress**: small fixes and a bunch of commits to my drag and drop autotest (and it almost works) 
+
+**Thoughts:** Want some kurochka from my Dashik
+**Link to work:** Private repo (it's related to my work)
