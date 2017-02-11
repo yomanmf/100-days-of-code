@@ -346,3 +346,11 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** Want some kurochka from my Dashik
 **Link to work:** Private repo (it's related to my work)
+
+### Day 39: February 10, 2017
+#####
+
+**Today's Progress**: made several fixes to broken autotests
+
+**Thoughts:** 8)
+**Link to work:** Private repo (it's related to my work)
