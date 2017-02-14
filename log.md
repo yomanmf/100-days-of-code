@@ -362,3 +362,19 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** A little sick, but not sick of coding
 **Link to work:** Private repo (it's related to my work)
+
+### Day 42: February 13, 2017
+#####
+
+**Today's Progress**: have expanded autotests to make checks more wide
+
+**Thoughts:** ...
+**Link to work:** Private repo (it's related to my work)
+
+### Day 43: February 14, 2017
+#####
+
+**Today's Progress**: made some fixes and stabilization commits to autotesets. Tried first time to cherry-pick commit
+
+**Thoughts:** exhausted
+**Link to work:** Private repo (it's related to my work)
