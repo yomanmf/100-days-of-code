@@ -379,10 +379,19 @@ https://github.com/yomanmf/yomanmf.github.io
 **Thoughts:** exhausted
 **Link to work:** Private repo (it's related to my work)
 
-### Day 43: February 14, 2017
+### Day 44: February 15, 2017
 #####
 
 **Today's Progress**: tried to work with browser.keys and browser.switchtab webdriverio methods
 
 **Thoughts:** want to sleep
+**Link to work:** Private repo (it's related to my work)
+
+
+### Day 45: February 16, 2017
+#####
+
+**Today's Progress**: some autotests fixes
+
+**Thoughts:** THAT FEELING WHEN MY AUTOTEST FOUND A REAL BUG FIRST TIME 8)
 **Link to work:** Private repo (it's related to my work)
