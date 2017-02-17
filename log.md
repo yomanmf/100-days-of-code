@@ -395,3 +395,11 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** THAT FEELING WHEN MY AUTOTEST FOUND A REAL BUG FIRST TIME 8)
 **Link to work:** Private repo (it's related to my work)
+
+### Day 46: February 17, 2017
+#####
+
+**Today's Progress**: fixed outdated tests, worked with browsers.keys command 
+
+**Thoughts:** a little bit tired
+**Link to work:** Private repo (it's related to my work)
