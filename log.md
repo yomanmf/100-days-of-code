@@ -403,3 +403,11 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** a little bit tired
 **Link to work:** Private repo (it's related to my work)
+
+### Day 47: February 18, 2017
+#####
+
+**Today's Progress**: have written come new autotests on old functionality
+
+**Thoughts:** my little Dashik looks sooo good 8)
+**Link to work:** Private repo (it's related to my work)
