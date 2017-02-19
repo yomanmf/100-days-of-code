@@ -411,3 +411,11 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** my little Dashik looks sooo good 8)
 **Link to work:** Private repo (it's related to my work)
+
+### Day 48: February 19, 2017
+#####
+
+**Today's Progress**: made some fixes of old autotests
+
+**Thoughts:** want grape berries so bad
+**Link to work:** Private repo (it's related to my work)
