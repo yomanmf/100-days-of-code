@@ -419,3 +419,11 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** want grape berries so bad
 **Link to work:** Private repo (it's related to my work)
+
+### Day 49: February 20, 2017
+####
+
+**Today's Progress**: started to write several autotests for search results page
+
+**Thoughts:** sleepy and hungry
+**Link to work:** Private repo (it's related to my work)
