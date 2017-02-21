@@ -427,3 +427,11 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** sleepy and hungry
 **Link to work:** Private repo (it's related to my work)
+
+### Day 50: February 21, 2017
+####
+
+**Today's Progress**: have written a lot of autotests that count elements on a search page
+
+**Thoughts:** wow a half of my challenge gone so quickly 🤓
+**Link to work:** Private repo (it's related to my work)
