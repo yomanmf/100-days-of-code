@@ -442,7 +442,7 @@ https://github.com/yomanmf/yomanmf.github.io
 **Today's Progress**: finished search results tests, finished multiple tabs playback tests
 
 **Thoughts:** a little tired
-**LIonk to work:** Private repo (it's related to my work)
+**Link to work:** Private repo (it's related to my work)
 
 ### Day 52: February 27, 2017
 ###
@@ -450,4 +450,4 @@ https://github.com/yomanmf/yomanmf.github.io
 **Today's Progress**: made some fixes to flaky autotest
 
 **Thoughts:** need more time
-**LIonk to work:** Private repo (it's related to my work)
+**Link to work:** Private repo (it's related to my work)
