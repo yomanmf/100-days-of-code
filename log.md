@@ -451,3 +451,11 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** need more time
 **Link to work:** Private repo (it's related to my work)
+
+### Day 53: February 28, 2017
+###
+
+**Today's Progress**: investigated and successfully fixed some flaky autotests 
+
+**Thoughts:** want more
+**Link to work:** Private repo (it's related to my work)
