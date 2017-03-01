@@ -459,3 +459,11 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** want more
 **Link to work:** Private repo (it's related to my work)
+
+### Day 54: March 1, 2017
+###
+
+**Today's Progress**: started some autotests for new functionality
+
+**Thoughts:** need some more written strings of code :(
+**Link to work:** Private repo (it's related to my work)
