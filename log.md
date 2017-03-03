@@ -467,3 +467,19 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** need some more written strings of code :(
 **Link to work:** Private repo (it's related to my work)
+
+### Day 55: March 2, 2017
+###
+
+**Today's Progress**: finished my mp3 section autotests
+
+**Thoughts:** awww Dashik-kakashik
+**Link to work:** Private repo (it's related to my work)
+
+### Day 56: March 3, 2017
+###
+
+**Today's Progress**: closed some old technical depth in autotests
+
+**Thoughts:** want more
+**Link to work:** Private repo (it's related to my work)
