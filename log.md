@@ -491,3 +491,11 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** want more
 **Link to work:** Private repo (it's related to my work)
+
+### Day 58: March 5, 2017
+###
+
+**Today's Progress**: tried to fix selenium grid tests timeout issue
+
+**Thoughts:** sleepy
+**Link to work:** Private repo (it's related to my work)
