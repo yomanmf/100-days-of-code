@@ -499,3 +499,27 @@ https://github.com/yomanmf/yomanmf.github.io
 
 **Thoughts:** sleepy
 **Link to work:** Private repo (it's related to my work)
+
+### Day 59: March 6, 2017
+###
+
+**Today's Progress**: stated to write mobile layout autotests
+
+**Thoughts:** ...
+**Link to work:** Private repo (it's related to my work)
+
+### Day 60: March 7, 2017
+###
+
+**Today's Progress**: worked with mobile layout
+
+**Thoughts:** ...
+**Link to work:** Private repo (it's related to my work)
+
+### Day 61: March 8, 2017
+###
+
+**Today's Progress**: some improvements to my layout tests
+
+**Thoughts:** looks like so much work remain
+**Link to work:** Private repo (it's related to my work)
